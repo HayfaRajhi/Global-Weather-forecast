@@ -1,4 +1,9 @@
 # Global Weather Forecasting and Climate Analysis
+## PM Accelerator mission
+Welcome to PM Accelerator, a beacon of guidance for aspiring and experienced PMs alike. We’ve designed this platform to offer training, education, and job opportunities for Product Managers, creating room for constant improvement and shaping the next generation of PMs. Whether you’re a newbie or you’ve spent years in the industry, you’re guaranteed to find a new opportunity with the help of PM Accelerator.  
+
+By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto, as we grant aspiring and experienced PMs what they need most – Access. We introduce you to industry leaders, surround you with the right PM ecosystem, and discover the new world of AI product management skills.
+
 
 ## Project Overview 
 
